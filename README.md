@@ -6,4 +6,3 @@
 5. [kubernetes](https://andrewjin666.gitbook.io/kubernetes-review/)
 6. [prometheus](https://andrewjin666.gitbook.io/prometheus-review/)
 7. [SRE](https://andrewjin666.gitbook.io/sre-review/)
-8. test
