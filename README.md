@@ -3,7 +3,10 @@ description: 지금까지 정리된 문서 리스트 URL
 ---
 
 # 정리된 문서 리스트
-{% hint style="info" %} Tips: "styles" translate to the different hint types : info, success, danger & warning. {% endhint %}
+
+{% hint style="info" %}
+Tips: "styles" translate to the different hint types : info, success, danger & warning.
+{% endhint %}
 
 1. [docker](https://andrewjin666.gitbook.io/docker-review/)
 2. [Ansible/AWX](https://andrewjin666.gitbook.io/awx-review/)
